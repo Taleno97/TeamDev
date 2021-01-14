@@ -2,6 +2,10 @@ import java.io.IOException;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
+<<<<<<<HEAD=======
+
+>>>>>>>d16a0a80ef9ad08220cc9819d9412e31544071ef
+
 public class Notendurchschnitt {
     public static void main(String[] args) {
         boolean notenartFalsch = true;
@@ -10,10 +14,17 @@ public class Notendurchschnitt {
         int notenart = 2;
 
         while (notenartFalsch) {
+<<<<<<< HEAD
             try {
                 notenartFalsch = false;
                 notenart = scanner.nextInt();
             } catch (InputMismatchException exception) {
+=======
+            try{
+                notenartFalsch = false;
+                notenart = scanner.nextInt();
+            } catch(InputMismatchException exception){
+>>>>>>> d16a0a80ef9ad08220cc9819d9412e31544071ef
                 System.err.println("Bitte gib nur Zahlen ein.");
                 notenartFalsch = false;
             }
@@ -24,31 +35,27 @@ public class Notendurchschnitt {
         int zahl3 = -1;
         int zahl4 = -1;
 
-        System.out.println(
-                "Gib bitte nun deine vier Noten ein, jeweils mit einem Leerzeichen getrennt oder nacheinander.");
+
+        System.out.println("Gib bitte nun deine vier Noten ein, jeweils mit einem Leerzeichen getrennt oder nacheinander.");
         switch (notenart) {
             case 0:
-                while ((zahl1 > 15 || zahl1 < 0) || (zahl2 > 15 || zahl2 < 0) || (zahl3 > 15 || zahl3 < 0)
-                        || (zahl4 > 15 || zahl4 < 0)) {
+                while ((zahl1 > 15 || zahl1 < 0) || (zahl2 > 15 || zahl2 < 0) || (zahl3 > 15 || zahl3 < 0) || (zahl4 > 15 || zahl4 < 0)) {
                     zahl1 = scanner.nextInt();
                     zahl2 = scanner.nextInt();
                     zahl3 = scanner.nextInt();
                     zahl4 = scanner.nextInt();
-                    if ((zahl1 > 15 || zahl1 < 0) || (zahl2 > 15 || zahl2 < 0) || (zahl3 > 15 || zahl3 < 0)
-                            || (zahl4 > 15 || zahl4 < 0)) {
+                    if ((zahl1 > 15 || zahl1 < 0) || (zahl2 > 15 || zahl2 < 0) || (zahl3 > 15 || zahl3 < 0) || (zahl4 > 15 || zahl4 < 0)) {
                         System.out.println("Bitte gib nur Zahlen von 0-15 ein");
                     }
                 }
                 break;
             case 1:
-                while ((zahl1 > 6 || zahl1 < 1) || (zahl2 > 6 || zahl2 < 1) || (zahl3 > 6 || zahl3 < 1)
-                        || (zahl4 > 6 || zahl4 < 1)) {
+                while ((zahl1 > 6 || zahl1 < 1) || (zahl2 > 6 || zahl2 < 1) || (zahl3 > 6 || zahl3 < 1) || (zahl4 > 6 || zahl4 < 1)) {
                     zahl1 = scanner.nextInt();
                     zahl2 = scanner.nextInt();
                     zahl3 = scanner.nextInt();
                     zahl4 = scanner.nextInt();
-                    if ((zahl1 > 6 || zahl1 < 1) || (zahl2 > 6 || zahl2 < 1) || (zahl3 > 6 || zahl3 < 1)
-                            || (zahl4 > 6 || zahl4 < 1)) {
+                    if ((zahl1 > 6 || zahl1 < 1) || (zahl2 > 6 || zahl2 < 1) || (zahl3 > 6 || zahl3 < 1) || (zahl4 > 6 || zahl4 < 1)) {
                         System.out.println("Bitte gib nur Zahlen von 1-6 ein");
                     }
                 }
