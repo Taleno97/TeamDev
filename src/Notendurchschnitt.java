@@ -17,7 +17,6 @@ public class Notendurchschnitt {
             } catch (Exception exception) {
                 System.err.println("Bitte gib nur Zahlen ein.");
                 scanner.next();
-                continue;
             }
         }
 
