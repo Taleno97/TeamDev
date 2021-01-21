@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf07e5c5-8a7c-4a9c-a9d4-699515b4503f" name="Default Changelist" comment="Aktueller Stand mit Switch Case">
+      <change beforePath="$PROJECT_DIR$/Notendurchschnitt.java" beforeDir="false" afterPath="$PROJECT_DIR$/Notendurchschnitt.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1n3L2hYSSBhb43Hj7qZWkZKWTkg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.protractor.protractor_package" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf07e5c5-8a7c-4a9c-a9d4-699515b4503f" name="Default Changelist" comment="" />
+      <created>1610613622111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610613622111</updated>
+      <workItem from="1610613623164" duration="5214000" />
+      <workItem from="1611216565547" duration="826000" />
+      <workItem from="1611217417687" duration="1194000" />
+    </task>
+    <task id="LOCAL-00001" summary="Aktueller Stand mit Switch Case">
+      <created>1610616995240</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610616995240</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/dev" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Aktueller Stand mit Switch Case" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aktueller Stand mit Switch Case" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="195" width="1092" height="786" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611217812241">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="414" y="195" width="1092" height="786" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.-171.1920.1080/0.0.1920.1080/-1920.-86.1920.1080@0.0.1920.1080" timestamp="1611217812241" />
+    <state x="689" y="378" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1611217670069">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="689" y="378" key="#com.intellij.ide.util.TreeClassChooserDialog/1920.-171.1920.1080/0.0.1920.1080/-1920.-86.1920.1080@0.0.1920.1080" timestamp="1611217670069" />
+    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1611216703820">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="295" key="FileChooserDialogImpl/1920.-171.1920.1080/0.0.1920.1080/-1920.-86.1920.1080@0.0.1920.1080" timestamp="1611216703820" />
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1611217391231">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/1920.-171.1920.1080/0.0.1920.1080/-1920.-86.1920.1080@-1920.-86.1920.1080" timestamp="1610617039471" />
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/1920.-171.1920.1080/0.0.1920.1080/-1920.-86.1920.1080@0.0.1920.1080" timestamp="1611217391231" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1611217391231">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.center/1920.-171.1920.1080/0.0.1920.1080/-1920.-86.1920.1080@-1920.-86.1920.1080" timestamp="1610617039471" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center/1920.-171.1920.1080/0.0.1920.1080/-1920.-86.1920.1080@0.0.1920.1080" timestamp="1611217391231" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1611217391231">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.left/1920.-171.1920.1080/0.0.1920.1080/-1920.-86.1920.1080@-1920.-86.1920.1080" timestamp="1610617039471" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left/1920.-171.1920.1080/0.0.1920.1080/-1920.-86.1920.1080@0.0.1920.1080" timestamp="1611217391231" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1611217391231">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.right/1920.-171.1920.1080/0.0.1920.1080/-1920.-86.1920.1080@-1920.-86.1920.1080" timestamp="1610617039471" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right/1920.-171.1920.1080/0.0.1920.1080/-1920.-86.1920.1080@0.0.1920.1080" timestamp="1611217391231" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1610617162598">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1368" y="187" key="Vcs.Push.Dialog.v2/1920.-171.1920.1080/0.0.1920.1080/-1920.-86.1920.1080@-1920.-86.1920.1080" timestamp="1610617003810" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/1920.-171.1920.1080/0.0.1920.1080/-1920.-86.1920.1080@0.0.1920.1080" timestamp="1610617162598" />
+    <state x="498" y="276" width="924" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1610616475740">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="498" y="276" width="924" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/1920.-171.1920.1080/0.0.1920.1080/-1920.-86.1920.1080@0.0.1920.1080" timestamp="1610616475740" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1610618206022">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/1920.-171.1920.1080/0.0.1920.1080/-1920.-86.1920.1080@0.0.1920.1080" timestamp="1610618206022" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
